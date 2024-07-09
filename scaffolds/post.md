@@ -1,5 +1,5 @@
 ---
 title: {{ title }}
-date: {{ date }}
+date: {{ date }} 00:00:00
 tags:
 ---
