@@ -104,3 +104,6 @@ deploy:
   type: git
   repo: https://github.com/pipimimi2023/pipimimi2023.github.io
   branch: gh-pages
+
+plugins:
+  - hexo-tag-video
