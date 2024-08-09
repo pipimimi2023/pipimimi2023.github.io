@@ -4,7 +4,7 @@ date: 2023-08-19 00:00:00
 tags:
 ---
 
-![](/images/tufting.jpg)
+![](/images/tufting-min.jpg)
 
 GOOD！我们的潦草小狗！
 
